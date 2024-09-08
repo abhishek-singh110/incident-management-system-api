@@ -1,0 +1,10 @@
+asgiref==3.8.1
+Django==5.1
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+phonenumbers==8.13.44
+pycountry==24.6.1
+PyJWT==2.9.0
+sqlparse==0.5.1
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9
