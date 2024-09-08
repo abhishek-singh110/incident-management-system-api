@@ -49,17 +49,5 @@ This is a RESTful API-based incident management system developed using Python an
 
    - Open your web browser and navigate to http://127.0.0.1:8000/.
 
-6. Register and log in:
-
-   - Register a new user account.
-   - Log in with the newly created account.
-
-
-## Notes
-
- - I have shared the postman collection for testing the functionality.
-
- - If you would like additional features or improvements, I am open to making this application much better if necessary.
-
 
 
